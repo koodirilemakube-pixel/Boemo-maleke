@@ -1,2 +1,0 @@
-# Boemo-maleke
-restaurant website
